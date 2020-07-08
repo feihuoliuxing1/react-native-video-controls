@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Video from 'react-native-video';
+import Video from '@feihuoliuxing1/react-native-video';
 import {
   TouchableWithoutFeedback,
   TouchableHighlight,
